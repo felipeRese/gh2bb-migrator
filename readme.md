@@ -20,7 +20,7 @@
 
    ```bash
    # .env
-   GH_PREFIX=be-growth
+   GH_PREFIX={your_github_user}
    ```
 
 2. **Build**
